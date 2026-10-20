@@ -1,0 +1,6 @@
+-r ../requirements.txt
+streamlit==1.55.0
+plotly==6.6.0
+requests==2.32.5
+matplotlib==3.9.4
+setuptools<81
